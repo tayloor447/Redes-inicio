@@ -1,0 +1,10 @@
+
+**************
+SERVIDOR DHCP
+*************
+Neste projecto atribui-se endereços de forma automática usando o servidor da DHCP da cisco que esta na camada de rede.
+Cujo o nome do Servidor DHCP que foi dado foi: IP-A
+Classe do IP A : 10.0.0.0 255.0.0.0
+Gateway: 10.1.1.1
+Usa se o servidor DHCP para que o administrador de rede não atribua os IP de forma estática, pois isso
+Seria muito trabalhoso. 

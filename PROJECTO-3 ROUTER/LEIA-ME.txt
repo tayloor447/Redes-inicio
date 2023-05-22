@@ -1,0 +1,7 @@
+**********
+ROTEADOR DA CISCO
+**********
+
+Neste presente projecto de rede irei garantir a comunicação entre duas redes diferentes antraves do Roteador.
+
+A principal vantagem do Router é que consegue fazer com que 2 dispositivos de redes diferentes se comuniquem.

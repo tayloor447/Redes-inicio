@@ -1,0 +1,17 @@
+
+**********************************
+         REDES COMANDOS
+**********************************
+//Comando para testar conectividade entre maquinas 
+Ping 192.168.3.6
+
+// Comando para ver quantas maquinas intermediarias estão conectados 
+Tracert –d 
+
+//Testar a se placa de rede ver se esta em funcionamento Endereço de Loopback
+Ping 127.0.0.1
+
+//
+Nslookup  www.facebook.com
+
+

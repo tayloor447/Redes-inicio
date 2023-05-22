@@ -1,0 +1,14 @@
+
+********************************
+     DNS SERVER
+*******************************
+
+Neste presente projecto de rede foi criado um servidor DNS, para seja possível aceder 
+a pagina através deste seguinte domínio: www.vicente.com.  
+Para tal a necessidade de se criar configurar um servidor DNS colocar o endereço fixo do servidor WEB 192.168.1.2
+
+****************************************
+www.vicente.com | A Record| 192.168.1.2
+****************************************
+
+Nisso informou-se as maquinas quem é o SERVIDOR DNS essa configuração ocorre ao nível do Router. 

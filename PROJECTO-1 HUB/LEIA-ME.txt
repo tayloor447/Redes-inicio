@@ -1,0 +1,8 @@
+**********
+HUB
+**********
+
+Neste presente projecto de rede irei garantir a comunicação entre 3 maquina, que estão na mesma rede
+usando o HUB que é um dispositivo usando para interligar as maquinas, que estão na mesma rede.
+
+O Endereço que irei usar será um da CLASSE C 192.168.4.1 este será o Gateway.

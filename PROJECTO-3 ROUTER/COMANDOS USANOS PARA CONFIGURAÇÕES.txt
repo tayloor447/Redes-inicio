@@ -1,0 +1,24 @@
+
+*************************************
+COMANDOS DO ROTEADOR DA CISCO 
+*************************************
+******************************************
+Configurações do roteador para habilitar
+as duas portas tanto a 0/0 e 0/1 para que as duas
+redes diferentes se comuniquem
+******************************************
+ enable <<< Habilitando super administrador
+ configure terminal <<<< Inicia as configurações do roteador
+ interface fastEthernet 0/0 <<<<Informado qual e a porta que sera habilitada
+ no shutdown <<<habilitado a porta para que esteja UP
+ ip address 192.168.5.1 255.255.255.0 <<< Colocando o ip e a mascara da rede 
+  exit <<< Sair do terminal de configuracao da porta 0/0
+
+******************************************************************
+Configurações para ver os ip de gateways das duas redes
+******************************************************************
+enable << Habilitando super administrador
+
+show ip interface brief << Mostra os ip das portas de saida 0/0 e 0/1
+
+

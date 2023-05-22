@@ -1,0 +1,11 @@
+**********
+SWITCH
+**********
+
+Neste presente projecto de rede irei garantir a comunicação entre 3 maquina, que estão na mesma rede
+usando o SWITCH que é um dispositivo usando para interligar as maquinas, que estão na mesma rede.
+
+A principal vantagem do switch é que consegue fazer chegar a mensagem ao destinatário sem passar pelas 
+outras maquinas isso é possível através do Mac Adress.
+
+O Endereço que irei usar será um da CLASSE C 192.168.8.1 este será o Gateway.

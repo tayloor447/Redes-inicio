@@ -1,0 +1,61 @@
+
+
+*************************************
+COMANDOS DO ROTEADOR DA CISCO 
+*************************************
+
+
+******************************************
+Configurações do roteador para habilitar
+as duas portas tanto a 0/0 e 0/1 para que as duas
+redes diferentes se comuniquem
+******************************************
+ enable <<< Habilitando super administrador
+ configure terminal <<<< Inicia as configurações do roteador
+ interface fastEthernet 0/0 <<<<Informado qual e a porta que sera habilitada
+ no shutdown <<<habilitado a porta para que esteja UP
+ ip address 192.168.5.1 255.255.255.0 <<< Colocando o ip e a mascara da rede 
+  exit <<< Sair do terminal de configuracao da porta 0/0
+
+******************************************************************
+Configurações para ver os ip de gateways das duas redes
+******************************************************************
+enable << Habilitando super administrador
+
+show ip interface brief << Mostra os ip das portas de saida 0/0 e 0/1
+
+
+******************************************************************
+Configurações para habilitar o servidor DCHP ao nivel do Router
+******************************************************************
+_____________________________________________________________________________
+1- Habilite a porta do Roteador pode ser a 0/0 ou 0/1
+_____________________________________________________________________________
+ enable <<< Habilitando super administrador
+ configure terminal <<< Inicia as configurações do roteador
+ interface fastEthernet 0/0 <<<<Informado qual e a porta que sera habilitada
+ no shutdown <<<habilitado a porta para que esteja UP
+  exit <<< Sair do terminal de configuracao da porta 0/0
+_____________________________________________________________________________
+
+2- Configurações para habilitar o servidor DCHP
+_____________________________________________________________________________
+ enable <<< Habilitando super administrador
+ configure terminal <<< Inicia as configurações do roteador
+ interface fastEthernet 0/0 <<<<Informado qual e a porta que sera habilitada
+ no shutdown <<<<habilitado a porta para que esteja UP
+  exit <<< Sair do terminal de configuracao da porta 0/0
+_____________________________________________________________________________
+
+ip dhcp pool IP-A <<< Atribuido nome ao DCHP
+network 10.0.0.0 255.0.0.0 <<< Informado ao roteador que deve usar endereco da Classe A
+default-router 10.1.1.1 <<< definido o IP que vai ser o gateway
+interface fastEthernet 0/0 <<< entrado na porta 0/0
+ip address 10.1.1.1 255.0.0.0 <<< informando ao roteador que ip do gateway e este 
+________________________________________________________________________________
+
+
+
+
+
+
