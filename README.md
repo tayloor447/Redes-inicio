@@ -14,7 +14,7 @@ tradução do endereço IP para www.vicente.com.
 
 <div align="center">
   <h2>PROJECTO-2-SWITCH</h2>>
-<img src="https://github.com/tayloor447/Redes/assets/68455466/71c71cbb-5970-4d84-8c73-761fda92555c" width="700px" />
+<img src="https://github.com/tayloor447/redes-inicio/assets/68455466/767004bc-403f-46a9-a253-9a2be7285217" width="700px" />
 </div>
 
 <div align="center">
