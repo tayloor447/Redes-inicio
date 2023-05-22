@@ -24,7 +24,7 @@ tradução do endereço IP para www.vicente.com.
 
 <div align="center">
   <h2>PROJECTO-4-SERVIDOR DHCP</h2>>
-<img src="https://github.com/tayloor447/Redes/assets/68455466/101528cc-e96d-440e-a3e0-6efd14c5fa4b" width="700px" />
+<img src="https://github.com/tayloor447/redes-inicio/assets/68455466/3b5c3237-4d53-4690-b29d-9280f00482c4" width="700px" />
 </div>
 <div align="center">
   <h2>PROJECTO-5-SERVIDOR WEB</h2>>
