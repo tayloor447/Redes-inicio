@@ -9,7 +9,7 @@ tradução do endereço IP para www.vicente.com.
 
 <div align="center">
   <h2>PROJECTO-1-HUB</h2>>
-<img src="https://github.com/tayloor447/Redes/assets/68455466/740689f9-0b5e-40b7-9a9d-903951c3f8d2" width="700px" />
+<img src="https://github.com/tayloor447/redes-inicio/assets/68455466/53c79447-ba33-4154-8e4f-923e25d080a5" width="700px" />
 </div>
 
 <div align="center">
