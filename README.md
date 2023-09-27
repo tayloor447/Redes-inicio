@@ -1,5 +1,3 @@
-
-# Redes-
 Durante o curso de Redes oferecido pela Alura, tive a oportunidade de realizar diversas tarefas. Essas atividades incluíram aprender os
 comandos básicos de redes, compreender as classes de IP, decifrar mensagens criptografadas utilizando o Wireshark e familiarizar-me
 com os equipamentos de rede, como HUB, SWITCH e ROUTER, bem como os diferentes tipos de cabos. Além disso, adquiri conhecimentos sobre 
